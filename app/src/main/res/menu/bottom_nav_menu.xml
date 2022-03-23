@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_drink"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/drinkHome" />
+
+    <item
+        android:id="@+id/nav_games"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/gamesHome" />
+
+    <item
+        android:id="@+id/nav_map"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="@string/mapMode" />
+
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="@string/settings"/>
+</menu>
